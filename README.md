@@ -49,6 +49,22 @@ Site link is [here](https://github.com/)
 
 * 중앙의 View invitation을 클릭한다음 accept를 누르면 프로젝트에 참여하게 됩니다.
  
+ ## 소스트리에서 자신의 깃허브 계정 연결하기
+
+*  **계정을 연결하기 전에 우선 인터넷 페이지에서 깃허브에 로그인 되어 있어야 합니다.**
+
+Remote 부분으로 들어간다음 +계정추가 버튼을 누릅니다.
+
+![ScreenShot](design/images/login.PNG)
+
+* 아래와 같이 설정한 다음 OAuth Token 새로고침을 누릅니다.
+
+![ScreenShot](design/images/login2.PNG)
+
+>위에서는 웹페이지에 깃허브 계정이 로그인 되어있지 않아 로그인이 실패되었다고 표시됩니다.
+
+* 확인 버튼을 누르면 깃허브 계정이 연결됩니다. 
+ 
 
 ## 소스트리를 이용해 저장소와 연결하기
 
